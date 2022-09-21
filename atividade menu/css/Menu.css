@@ -1,0 +1,45 @@
+img{
+
+    width: 80px;
+    height: 80px;
+
+}
+
+.container{
+
+    display: flex;
+    border : 2px solid black;
+    background-color: darkred;
+    justify-content: space-between;
+
+
+}
+
+
+nav{width: 600px;
+    padding-right: 50px;
+    padding-left: 50px;
+    display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+font-size: 25px; 
+color: aliceblue;
+background-color: darkblue;
+
+
+}
+
+h1{
+
+    color: azure;
+    font-family: Script Mt;
+    font-size:  30px;
+}
+
+a{
+
+    font-size: 30px;
+    font-family: impact;
+
+}
